@@ -10,3 +10,4 @@
 - **[APP]**  [Mailr](https://github.com/kderef/mailr)
 - **[APP]**  [Toolfetch](https://github.com/kderef/toolfetch)
 - **[APP]**  [MoveFilesService](https://github.com/kderef/moveFilesService-rs)
+- **[APP]** [KTools](https://github.com/kderef/ktools)
