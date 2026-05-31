@@ -4,10 +4,7 @@
 - System programming and a bit of gamedev
 ---
 ## Significant projects:
-- **[GAME]** [Multisim](https://github.com/kderef/MultiSim)
-- **[GAME]** [Olaf Game](https://github.com/kderef/bird-game)
-- **[GAME]** [KGames](https://github.com/kderef/kgames)
-- **[APP]**  [Mailr](https://github.com/kderef/mailr)
-- **[APP]**  [Toolfetch](https://github.com/kderef/toolfetch)
-- **[APP]**  [MoveFilesService](https://github.com/kderef/moveFilesService-rs)
-- **[APP]** [KTools](https://github.com/kderef/ktools)
+- [Mailr](https://github.com/kderef/mailr): Send mail via the terminal
+- [Toolfetch](https://github.com/kderef/toolfetch): Easily fetches the most important system information for you
+- [MoveFilesService](https://github.com/kderef/moveFilesService-rs): Automatically move files from one folder to another
+- [KTools](https://github.com/kderef/ktools): An application that bundles in many tools such as a password generator and a system information screen.
